@@ -70,7 +70,7 @@ TODO: Add long description of the pod here.
    s.dependency 'AliyunOSSiOS'
 
    #三方库ffmpeg
-#   s.dependency 'QuCore-ThirdParty'
+   s.dependency 'QuCore-ThirdParty'
 
    s.dependency 'AlivcCommon'
 
